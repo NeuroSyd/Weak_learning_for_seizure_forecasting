@@ -6,6 +6,8 @@ Please cite: https://www.medrxiv.org/content/10.1101/2021.09.30.21264287v2
 
 
 ## Model Training and testing online learning
+The training will automatically start once the buffer time reach
+
 ```python 
 main_real_time_train.py
 main_real_time_test.py
